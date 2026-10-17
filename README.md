@@ -1,5 +1,5 @@
 ### 
-
+RICH-Net: Distortion-Aware Robust Reversible Face Anonymization with High-Frequency Information Compensation
 
 Ruilin Wang et al. 
 
