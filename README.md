@@ -6,8 +6,7 @@ Ruilin Wang et al.
 
 > The complete source code of this paper can be obtained from the zip file
 > For more details about the used datasets, please read the original paper.
-> Active Embedding (AE) Module: INV_block_en 
-> Distortion Compensation (DC) Module: INV_block_de
+
 ****
 
 ### Requirements
@@ -39,7 +38,7 @@ Please download ImageNet or COCO datasets, and push them into `datasets` folder 
 Please download the different models from this link: 
 https://pan.baidu.com/s/1Auzpk0Ol2Mx4SShRStlD8Q?pwd=ingj
 
-our models:
+our models:Active Embedding (AE) Module: INV_block_en; Distortion Compensation (DC) Module: INV_block_de
 Please place the model (model_checkpoint_00388.pth) in path:
 /results/OK-Robustness_Batch8_Fusion_forwardTrue_backwardTrue_HflossTrue_Combined([Identity(), Jpeg_PRIS(90), JpegMask(90), Jpeg(90)])/models/
 
