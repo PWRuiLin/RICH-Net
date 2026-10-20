@@ -38,7 +38,7 @@ Please download ImageNet or COCO datasets, and push them into `datasets` folder 
 Please download the different models from this link: 
 https://pan.baidu.com/s/1Auzpk0Ol2Mx4SShRStlD8Q?pwd=ingj
 
-our models: INV_block_en (Active Embedding (AE) Module) and INV_block_de (Distortion Compensation (DC) Module);
+our models: INV_block_en (Active Embedding (AE) Module) and INV_block_de (Distortion Compensation (DC) Module).
 Please place the model (model_checkpoint_00388.pth) in path:
 /results/OK-Robustness_Batch8_Fusion_forwardTrue_backwardTrue_HflossTrue_Combined([Identity(), Jpeg_PRIS(90), JpegMask(90), Jpeg(90)])/models/
 
