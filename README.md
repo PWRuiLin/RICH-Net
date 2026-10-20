@@ -6,8 +6,8 @@ Ruilin Wang et al.
 
 > The complete source code of this paper can be obtained from the zip file
 > For more details about the used datasets, please read the original paper.
-Active Embedding (AE) Module: INV_block_en 
-Distortion Compensation (DC) Module: INV_block_de
+> Active Embedding (AE) Module: INV_block_en 
+> Distortion Compensation (DC) Module: INV_block_de
 ****
 
 ### Requirements
