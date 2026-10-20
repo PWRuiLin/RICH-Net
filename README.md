@@ -6,7 +6,8 @@ Ruilin Wang et al.
 
 > The complete source code of this paper can be obtained from the zip file
 > For more details about the used datasets, please read the original paper.
-
+Active Embedding (AE) Module: INV_block_en 
+Distortion Compensation (DC) Module: INV_block_de
 ****
 
 ### Requirements
@@ -45,6 +46,7 @@ Please place the model (model_checkpoint_00388.pth) in path:
 Please place the model (model_checkpoint_00342.pth) in path: 
 /results/Robustness_Batch8_Fusion_forwardTrue_backwardTrue_HflossTrue_Combined([Identity(), Jpeg_PRIS(90), JpegMask(90), Jpeg(90), GN(0.001)])/models/
 please 
+
 
 IMN model:
 Please place the model (model11) in path:
